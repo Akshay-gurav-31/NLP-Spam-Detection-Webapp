@@ -124,3 +124,11 @@ http://127.0.0.1:5000
 "Hey, are we still meeting for lunch at noon today?"
 "Hi team, the 2 pm meeting has been moved to 3 pm. Same room."
 ```
+
+---
+
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
