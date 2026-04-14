@@ -57,11 +57,25 @@ Akash-email-ml/
 │
 ├── static/
 │   └── images/
-│       └── bg.png       # Background image
+│       ├── bg.png       # App Background
+│       └── snapshots-1.png # Project Snapshot
 │
-└── templates/
-    └── index.html       # Single-file frontend (HTML + CSS + JS, light theme SaaS UI)
+├── templates/
+│   └── index.html       # Single-file frontend (HTML + CSS + JS, light theme SaaS UI)
+│
+└── Spam_Analysis.ipynb  # Interactive Jupyter Notebook with Visualisations
 ```
+
+---
+
+## 📊 Interactive Analysis
+
+Explore the model's performance and test custom messages using the provided Jupyter Notebook.
+
+### How to use:
+1. Ensure `jupyter` is installed: `pip install jupyter`
+2. Launch the notebook: `jupyter notebook Spam_Analysis.ipynb`
+3. Run all cells to see the **Confusion Matrix**, **Accuracy Graphs**, and the **Live Prediction** section.
 
 ---
 
