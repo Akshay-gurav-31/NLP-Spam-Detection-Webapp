@@ -1,0 +1,15 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Flask logs/cache
+instance/
+.webassets-cache
